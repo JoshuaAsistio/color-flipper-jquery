@@ -38,5 +38,7 @@ public class ProgressBarDemo {
 		}
 		
 		bar.setString("Done");
+
+		System.out.println("Changed");
 	}
 }
